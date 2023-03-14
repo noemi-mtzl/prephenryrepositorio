@@ -1,2 +1,2 @@
-# prephenryrepositorio
-Primer repositorio creado en Github para el prepcourse de Henry.
+Prueba 1 clonar desde Github
+Prueba 2 clonar desde Github y hacer un commit
